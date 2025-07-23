@@ -1,6 +1,6 @@
 ## Pokémon Sprites Gallery
 
-A fun little project to display the original 151 Pokémon sprites using JavaScript, HTML, and CSS. Just open `index.html` and enjoy the nostalgia!
+A fun little project to display the original 151 Pokémon sprites using JavaScript, HTML, and CSS. Just visit [Sprites!](https://safwansatil.github.io/pokeSprites/) and enjoy the nostalgia!
 
 ### Features
 - Simple, clean layout
